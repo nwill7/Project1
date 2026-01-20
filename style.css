@@ -100,3 +100,18 @@ img{
 .card .cardtxt{
   margin-top: 7px;
 }
+
+.quotesection{
+  background-color: lightgray;
+  padding: 150px 250px 150px 250px;
+}
+
+.quotesection .inspirationquote{
+  font-size: xx-large;
+}
+
+.quotesection .quoter{
+  font-size: x-large;
+  text-align: end;
+  font-weight: 750;
+}
